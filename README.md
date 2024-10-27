@@ -14,25 +14,16 @@ Commands -
 10) Win + H = Lets you type text using Voice Command
 11) Win + Tab: Opens Task View, allowing you to see all open windows and access virtual desktops.
 12) Win + Ctrl + D: Creates a new virtual desktop, letting you organize workspaces for different tasks.
-13) 
-14) a
-15) a
-16) a
-17) a
-18) a
-19) a
-20) a
-21) a
-22) a
-23) a
-24) a
-25) a
-26) a
-27) a
-28) a
-29) a
-30) a
-31) a
-32) a
-33) a 
+13) Win + Ctrl + F4: Closes the current virtual desktop.
+14) Win + P: Opens the display projection menu, great for connecting to a second monitor or projector quickly.
+15) Win + + (Plus): Opens the Magnifier tool to zoom in on the screen for better accessibility.
+16) Win + Ctrl + Shift + B: Refreshes your graphics driver; helpful if your display freezes or flickers.
+17) Win + V: Opens the Clipboard history, letting you see multiple copied items if enabled in settings.
+18) Win + Shift + Arrow Keys: Moves the active window to the next monitor (if using multiple monitors).
+19) Win + Ctrl + Enter: Opens Narrator, an accessibility feature that reads text on the screen.
+20) Win + K: Opens the Connect panel, allowing you to pair Bluetooth devices or connect to wireless displays.
+21) Win + U: Opens the Accessibility settings, letting you quickly adjust settings for ease of access.
+22) Win + X: Opens the Quick Link menu, offering shortcuts to system utilities like Device Manager, Disk Management, and Power Options.
+23) Win + Shift + M: Restores minimized windows on the desktop, bringing them back up after minimizing.
+
 
